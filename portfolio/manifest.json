@@ -1,0 +1,24 @@
+{
+  "name": "Digital Systems & Analytics Portfolio",
+  "short_name": "Systems Portfolio",
+  "description": "Professional digital product portfolio showcasing operational systems, business analytics, and automation.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='36' fill='%23111111'/><path d='M48 96L84 60L120 96L144 72' stroke='%237C5CFC' stroke-width='16' stroke-linecap='round' stroke-linejoin='round'/><circle cx='144' cy='72' r='14' fill='%23F7F6F2'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='96' fill='%23111111'/><path d='M128 256L224 160L320 256L384 192' stroke='%237C5CFC' stroke-width='40' stroke-linecap='round' stroke-linejoin='round'/><circle cx='384' cy='192' r='36' fill='%23F7F6F2'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
